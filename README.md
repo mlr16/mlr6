@@ -4,7 +4,7 @@
 
 <h2>👩‍💻 IT Projects:</h2>
 
-- [Active Directory Homelab](https://github.com/mlr6/URL)
+- [Active Directory Homelab](https://github.com/mlr16/ActiveDirectoryLab)
 
 <h2> 📄 Certifications:</h2>
 
